@@ -1,0 +1,1 @@
+const Chance = require('chance')
