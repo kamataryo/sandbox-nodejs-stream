@@ -7,7 +7,7 @@ $ node gzip-cipher-server.js
 ```
 
 ```shell
-$ node gzip-cipher-server-client.js
+$ node gzip-cipher-server-client.js <filename> localhost
 ```
 
 ## Back pressure
